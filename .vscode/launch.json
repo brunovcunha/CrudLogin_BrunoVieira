@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LayoutApplication<layout>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.bruno.layout.LayoutApplication",
+            "projectName": "layout",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
